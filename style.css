@@ -127,7 +127,7 @@ section .title::after {
 }
 
 .navbar.sticky .logo a span {
-  color: #fff;
+  color: #000;
 }
 
 .navbar .menu li {
@@ -145,7 +145,7 @@ section .title::after {
 }
 
 .navbar .menu li a:hover {
-  color: Violet ;
+  color: crimson;
 }
 
 .navbar.sticky .menu li a:hover {
